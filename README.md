@@ -23,8 +23,6 @@ Soy **desarrollador backend** y **arquitecto de bases de datos** en formación, 
 
 - 🗄️ Especializado en **PostgreSQL, Supabase, .NET y EF Core** con enfoque en modelado relacional y arquitectura limpia.
 - 🤖 Construyo **automatizaciones con n8n** integrando IA, APIs externas y notificaciones en tiempo real.
-- 📋 Lidero un equipo Scrum de cinco desarrolladores como **Project Manager y Backend Lead**.
-- 🐧 Trabajo nativamente sobre **Linux (Arch + Hyprland)**, con flujos de desarrollo personalizados y reproducibles.
 - 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)**.
 
 ---
@@ -151,7 +149,7 @@ Pipeline automatizado que consulta el clima de Bucaramanga, lo procesa con IA y 
 Si te interesa colaborar en proyectos de **desarrollo backend, arquitectura de bases de datos, automatización con IA o desarrollo móvil con Supabase**, estaré encantado de conversar.
 
 - 🐙 **GitHub:** [github.com/TEstebanGQ](https://github.com/TEstebanGQ)
-- 📍 **Ubicación:** Bucaramanga, Santander · Colombia
+- 📍 **Ubicación:** Piedecuesta, Santander · Colombia
 - 💼 **Disponibilidad:** Abierto a proyectos colaborativos y oportunidades de práctica.
 
 ---
