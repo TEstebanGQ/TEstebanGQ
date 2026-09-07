@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=light&name=Tomas+Gonzalez" />
-    <img src="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=dark&name=Tomas+Gonzalez" width="100%" alt="Tomas Gonzalez " />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=light&name=Etomas+Gonzalez" />
+    <img src="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=dark&name=Etomas+Gonzalez" width="100%" alt="Etomas Gonzalez " />
   </picture>
 </p>
 
 <!-- Typing Dynamic Banner -->
 <p align="center">
   <a href="https://portafolio-tegq.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Solutions;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+PyTorch;Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+n8n;Three.js+3D+Logbook+%E2%80%A2+Creative+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Solutions;FastAPI[...]
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Spring Boot)**, **Node.js** y **n8n**: arquitecturas limpias, microservicios, bases de datos 4NF, automatizaciones de procesos y sistemas de agentes inteligentes (MCP & LangGraph).
+Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Spring Boot)**, **Node.js** y **n8n**: arquitecturas limpias, microservicios, bases de datos 4NF, automatizaciones de proceso[...]
 
 - 🔭 **Construyendo:** Sistemas multi-agente autónomos y flujos de automatización empresarial con IA.
 - 🛠️ **Especialidades:** Python (LangGraph, PyTorch, FastAPI), Java 17+ (Spring Boot), Node.js (MCP) y n8n.
@@ -91,9 +91,9 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| 🧠 [**campuslands-inteligente**](https://github.com/TEstebanGQ/campuslands-inteligente) | Plataforma multi-agente: telemetría de aulas, visión computacional y decisiones autónomas. | `Python` `LangGraph` `PyTorch` `FastAPI` |
-| 📦 [**logitrack-wms-springboot**](https://github.com/TEstebanGQ/logitrack-wms-springboot) | Sistema WMS empresarial de inventarios y bodegas con arquitectura por capas. | `Java 17` `Spring Boot` `MySQL` |
-| ⚙️ [**n8n-attendance-ai-workflow**](https://github.com/TEstebanGQ/n8n-attendance-ai-workflow) | Flujo n8n automatizado para justificación de inasistencias con LLM y Telegram. | `n8n` `OpenRouter` `Telegram` |
+| 🧠 [**campuslands-inteligente**](https://github.com/TEstebanGQ/campuslands-inteligente) | Plataforma multi-agente: telemetría de aulas, visión computacional y decisiones autónomas. | `Python` `[...]
+| 📦 [**logitrack-wms-springboot**](https://github.com/TEstebanGQ/logitrack-wms-springboot) | Sistema WMS empresarial de inventarios y bodegas con arquitectura por capas. | `Java 17` `Spring Boot` `[...]
+| ⚙️ [**n8n-attendance-ai-workflow**](https://github.com/TEstebanGQ/n8n-attendance-ai-workflow) | Flujo n8n automatizado para justificación de inasistencias con LLM y Telegram. | `n8n` `OpenRoute[...]
 | 🔌 [**github-mcp-server**](https://github.com/TEstebanGQ/github-mcp-server) | Servidor MCP en Node.js que conecta LLMs (Groq/LLaMA 3.3) con la API de GitHub. | `Node.js` `MCP Protocol` `Groq` |
 | 🎫 [**HelpDeskAI**](https://github.com/TEstebanGQ/HelpDeskAI) | Sistema de tickets asistido por IA con base de conocimientos y clasificación automática. | `JavaScript` `OpenRouter` `RAG` |
 | 🗄️ [**ecommerce-database-4nf**](https://github.com/TEstebanGQ/ecommerce-database-4nf) | Base de datos E-Commerce en 4NF con stored procedures, triggers y análisis RFM. | `MySQL` `SQL` `4NF` |
@@ -128,5 +128,5 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
   <br/>
   <img src="https://raw.githubusercontent.com/TEstebanGQ/TEstebanGQ/main/assets/logo-tegq.jpg" width="80" alt="TEGQ Brand Logo" />
   <br/>
-  <sub><b>© Tomas Esteban González Quintero — TEGQ</b></sub>
+  <sub><b>© Etomas González Quintero — TEGQ</b></sub>
 </div>
