@@ -121,3 +121,12 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
 </div>
 
 <br/>
+
+---
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/TEstebanGQ/TEstebanGQ/main/assets/logo-tegq.jpg" width="80" alt="TEGQ Brand Logo" />
+  <br/>
+  <sub><b>© Tomas Esteban González Quintero — TEGQ</b></sub>
+</div>
