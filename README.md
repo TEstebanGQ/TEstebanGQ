@@ -102,14 +102,6 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
 
 ---
 
-### 🔍 Profile Scan
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=TEstebanGQ&theme=aurora" width="100%" alt="Profile scan" />
-</p>
-
----
-
 <div align="center">
   <h3>🤝 ¡Construyamos algo increíble juntos!</h3>
   <a href="mailto:tomasestebangonzalezquintero@gmail.com">
