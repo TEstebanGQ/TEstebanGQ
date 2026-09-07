@@ -1,11 +1,14 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=light&name=Tomas+Gonzalez" />
+    <img src="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=dark&name=Tomas+Gonzalez" width="100%" alt="Tomas Gonzalez" />
+  </picture>
+</p>
 
-# ⚡ Tomas Esteban González Quintero
-### Full Stack Developer & AI Solutions Architect
-
+<!-- Typing Dynamic Banner -->
 <p align="center">
   <a href="https://portafolio-tegq.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Solutions;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+PyTorch;Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+n8n;Three.js+3D+Logbook+%E2%80%A2+Creative+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Solutions;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+PyTorch;Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+n8n;Three.js+3D+Logbook+%E2%80%A2+Creative+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,8 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=TEstebanGQ&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-</div>
-
 ---
 
 ### 👨‍💻 Sobre Mí
@@ -38,10 +39,10 @@
 Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Spring Boot)**, **Node.js** y **n8n**: arquitecturas limpias, microservicios, bases de datos 4NF, automatizaciones de procesos y sistemas de agentes inteligentes (MCP & LangGraph).
 
 - 🔭 **Construyendo:** Sistemas multi-agente autónomos y flujos de automatización empresarial con IA.
-- 🛠️ **Especialidades:** Python (LangGraph, PyTorch, FastAPI), Java 17+ (Spring Boot), Node.js (Model Context Protocol - MCP) y n8n.
-- 📐 **Filosofía:** Código limpio, arquitecturas desacopladas y bases de datos relacionales normalizadas hasta 4NF.
-- 🎨 **Creative Dev:** Diseño y desarrollo de experiencias interactivas en 3D (Three.js, WebGL y Canvas 2D).
-- ⚡ **Fun fact:** Desarrollé una bitácora de ingeniería en 3D con paso de hojas procedimental sin depender de frameworks frontend pesados.
+- 🛠️ **Especialidades:** Python (LangGraph, PyTorch, FastAPI), Java 17+ (Spring Boot), Node.js (MCP) y n8n.
+- 📐 **Filosofía:** Código limpio, arquitecturas desacopladas y bases de datos relacionales hasta 4NF.
+- 🎨 **Creative Dev:** Experiencias interactivas en 3D con Three.js, WebGL y Canvas 2D.
+- ⚡ **Fun fact:** Desarrollé una bitácora de ingeniería 3D con paso de hojas procedimental sin frameworks pesados.
 
 ---
 
@@ -84,16 +85,20 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
 
 ### 🌟 Proyectos Destacados
 
-| Proyecto | Descripción | Stack Principal |
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=TEstebanGQ&theme=aurora" width="100%" alt="Proyectos" />
+</p>
+
+| Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| 🧠 [**campuslands-inteligente**](https://github.com/TEstebanGQ/campuslands-inteligente) | Plataforma multi-agente para telemetría de aulas, visión computacional y toma de decisiones autónomas. | `Python` • `LangGraph` • `PyTorch` • `FastAPI` |
-| 📦 [**logitrack-wms-springboot**](https://github.com/TEstebanGQ/logitrack-wms-springboot) | Sistema empresarial de gestión de inventarios y bodegas (WMS) con arquitectura por capas. | `Java 17` • `Spring Boot` • `MySQL` • `JPA` |
-| ⚙️ [**n8n-attendance-ai-workflow**](https://github.com/TEstebanGQ/n8n-attendance-ai-workflow) | Flujo automatizado en n8n para análisis y justificación de inasistencias con LLM y alertas en Telegram. | `n8n` • `OpenRouter` • `Google Sheets` • `Telegram` |
-| 🔌 [**github-mcp-server**](https://github.com/TEstebanGQ/github-mcp-server) | Servidor oficial Model Context Protocol (MCP) en Node.js que conecta LLMs con la API de GitHub. | `Node.js` • `MCP Protocol` • `Groq` • `GitHub API` |
-| 🎫 [**HelpDeskAI**](https://github.com/TEstebanGQ/HelpDeskAI) | Sistema de tickets y gestión de incidencias asistido por IA y base de conocimientos propietaria. | `JavaScript` • `OpenRouter` • `RAG` • `CSS3` |
-| 🗄️ [**ecommerce-database-4nf**](https://github.com/TEstebanGQ/ecommerce-database-4nf) | Base de datos relacional avanzada para E-Commerce normalizada en 4NF con triggers y análisis RFM. | `MySQL` • `4NF` • `Stored Procedures` • `Triggers` |
-| 🕹️ [**softskills-quest**](https://github.com/TEstebanGQ/softskills-quest) | Videojuego gamificado interactivo en 2D desarrollado en JavaScript nativo, Canvas y Web Audio API. | `JavaScript ES6` • `Canvas 2D` • `Web Audio` |
-| 🎨 [**PORTAFOLIO**](https://github.com/TEstebanGQ/PORTAFOLIO) | Portafolio interactivo personal en 3D con simulación de paso de hojas procedimental. | `Three.js` • `GSAP` • `Netlify` |
+| 🧠 [**campuslands-inteligente**](https://github.com/TEstebanGQ/campuslands-inteligente) | Plataforma multi-agente: telemetría de aulas, visión computacional y decisiones autónomas. | `Python` `LangGraph` `PyTorch` `FastAPI` |
+| 📦 [**logitrack-wms-springboot**](https://github.com/TEstebanGQ/logitrack-wms-springboot) | Sistema WMS empresarial de inventarios y bodegas con arquitectura por capas. | `Java 17` `Spring Boot` `MySQL` |
+| ⚙️ [**n8n-attendance-ai-workflow**](https://github.com/TEstebanGQ/n8n-attendance-ai-workflow) | Flujo n8n automatizado para justificación de inasistencias con LLM y Telegram. | `n8n` `OpenRouter` `Telegram` |
+| 🔌 [**github-mcp-server**](https://github.com/TEstebanGQ/github-mcp-server) | Servidor MCP en Node.js que conecta LLMs (Groq/LLaMA 3.3) con la API de GitHub. | `Node.js` `MCP Protocol` `Groq` |
+| 🎫 [**HelpDeskAI**](https://github.com/TEstebanGQ/HelpDeskAI) | Sistema de tickets asistido por IA con base de conocimientos y clasificación automática. | `JavaScript` `OpenRouter` `RAG` |
+| 🗄️ [**ecommerce-database-4nf**](https://github.com/TEstebanGQ/ecommerce-database-4nf) | Base de datos E-Commerce en 4NF con stored procedures, triggers y análisis RFM. | `MySQL` `SQL` `4NF` |
+| 🕹️ [**softskills-quest**](https://github.com/TEstebanGQ/softskills-quest) | Videojuego 2D gamificado en JavaScript nativo, Canvas y Web Audio API. | `JavaScript ES6` `Canvas 2D` |
+| 🎨 [**PORTAFOLIO**](https://github.com/TEstebanGQ/PORTAFOLIO) | Portafolio interactivo 3D con paso de hojas procedimental y síntesis de audio. | `Three.js` `GSAP` `Netlify` |
 
 ---
 
@@ -107,7 +112,6 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
 
 <div align="center">
   <h3>🤝 ¡Construyamos algo increíble juntos!</h3>
-  <p>Si quieres hablar de una vacante, proyecto freelance o colaborar en desarrollo de software, escríbeme:</p>
   <a href="mailto:tomasestebangonzalezquintero@gmail.com">
     <img src="https://img.shields.io/badge/Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
