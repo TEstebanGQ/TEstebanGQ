@@ -9,48 +9,21 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=TEstebanGQ&theme=aurora" width="100%" alt="Tomas" />
 </p>
 
-Fullstack Junior Developer. Trabajo sobre todo con **Node.js**, **PostgreSQL/Supabase** y **n8n**: backends, automatizaciones e integraciones de IA donde hace falta resolver algo concreto.
-Ahora mismo estoy metido en proyectos de gestión, automatización con IA y desarrollo móvil con React Native.
-
-<p align="center">
-  <a href="https://portafolio-tegq.netlify.app">Portafolio</a>
-  ·
-  <a href="https://github.com/TEstebanGQ?tab=repositories">Repos</a>
-</p>
+Full Stack Developer & AI Integrator. Especializado en arquitecturas limpias, sistemas multi-agente, automatización de procesos con **n8n**, servidores **MCP (Model Context Protocol)** y backends robustos con **Spring Boot (Java)**, **FastAPI (Python)** y **Node.js**.
 
 ---
 
-### Actividad
+### 🌐 Canales & Contacto
+- 🚀 **Portafolio 3D Interactivo:** [portafolio-tegq.netlify.app](https://portafolio-tegq.netlify.app/)
+- 💼 **LinkedIn:** [Tomas Esteban González Quintero](https://www.linkedin.com/in/tomas-esteban-gonzalez-quintero/)
+- 📧 **Email:** [tomasestebangonzalezquintero@gmail.com](mailto:tomasestebangonzalezquintero@gmail.com)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=TEstebanGQ&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=TEstebanGQ&theme=aurora&mode=dark" width="100%" alt="Contribuciones del último año" />
-  </picture>
-</p>
+---
 
-### Stats y stack
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=TEstebanGQ&theme=aurora" width="100%" alt="Stats de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=TEstebanGQ&theme=aurora" width="100%" alt="Lenguajes" />
-</p>
-
-### Proyectos
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=TEstebanGQ&theme=aurora" width="100%" alt="Proyectos" />
-</p>
-
-### Profile scan
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=TEstebanGQ&theme=aurora" width="100%" alt="Profile scan" />
-</p>
-
-### Contacto
-
-Si quieres hablar de un proyecto o colaborar, escríbeme por GitHub.
+### 🛠️ Tech Stack & Ecosistema
+- **Lenguajes:** Python, Java 17+, JavaScript (ES6+ / Node.js), SQL (MySQL), HTML5, CSS3, JSON / JSON-RPC.
+- **IA & Agentes:** LangGraph, PyTorch (Computer Vision), Model Context Protocol (MCP), OpenRouter LLMs, FiftyOne.
+- **Backend & Frameworks:** Spring Boot, FastAPI, Node.js, SQLAlchemy, JPA / Hibernate.
+- **Bases de Datos:** MySQL (4NF, Stored Procedures, Triggers, Optimización), SQLite / aiosqlite.
+- **Automatización:** n8n (self-hosted workflows), Webhooks, Telegram Bot API, Google Workspace APIs.
+- **Frontend & Creative:** Three.js (WebGL 3D), GSAP, HTML5 Canvas 2D, Web Audio API procedural.
