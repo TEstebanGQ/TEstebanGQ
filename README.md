@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=light&name=Tomas+Gonzalez" />
-    <img src="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=dark&name=Tomas+Gonzalez" width="100%" alt="Tomas Gonzalez" />
+    <img src="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=dark&name=Tomas+Gonzalez" width="100%" alt="Tomas Gonzalez " />
   </picture>
 </p>
 
