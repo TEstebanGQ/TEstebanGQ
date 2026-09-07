@@ -52,12 +52,12 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend & APIs** |        |
-| **AI & Multi-Agents** |       |
-| **Databases** |       |
-| **Automation & Workflows** |     |
-| **Frontend & Creative Dev** |       |
-| **DevOps & Tooling** |       |
+| **Backend & APIs** | `Java 17+` • `Spring Boot` • `Python` • `FastAPI` • `Node.js` • `REST APIs` • `JPA / Hibernate` |
+| **AI & Multi-Agents** | `LangGraph` • `PyTorch` • `Torchvision` • `Model Context Protocol (MCP)` • `OpenRouter` • `LLMs` |
+| **Databases** | `MySQL` • `PostgreSQL` • `4NF Normalization` • `Stored Procedures` • `Triggers` • `SQLAlchemy` |
+| **Automation & Workflows** | `n8n (Self-Hosted)` • `Telegram Bot API` • `Google Sheets/Drive API` • `Webhooks` |
+| **Frontend & Creative Dev** | `JavaScript (ES6+)` • `Three.js (WebGL)` • `GSAP` • `HTML5 Canvas 2D` • `Web Audio API` • `CSS3` |
+| **DevOps & Tooling** | `Git` • `GitHub Actions` • `Linux / Bash` • `Postman` • `Maven` • `Netlify` |
 
 ---
 
@@ -65,14 +65,14 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧠 [**campuslands-inteligente**](https://github.com/TEstebanGQ/campuslands-inteligente) | Intelligent platform & multi-agent system for classroom telemetry, computer vision & autonomous decisions. |     |
-| 📦 [**logitrack-wms-springboot**](https://github.com/TEstebanGQ/logitrack-wms-springboot) | Enterprise Warehouse Management System (WMS) with layered architecture & relational persistence. |     |
-| ⚙️ [**n8n-attendance-ai-workflow**](https://github.com/TEstebanGQ/n8n-attendance-ai-workflow) | Automated school absence justification triage with LLM reasoning, Sheets & Telegram notifications. |     |
-| 🔌 [**github-mcp-server**](https://github.com/TEstebanGQ/github-mcp-server) | Official Model Context Protocol (MCP) server in Node.js connecting LLMs (Groq/LLaMA 3.3) to GitHub API. |     |
-| 🎫 [**HelpDeskAI**](https://github.com/TEstebanGQ/HelpDeskAI) | Web ticketing system with AI-driven incident classification and knowledge base integration. |     |
-| 🗄️ [**ecommerce-database-4nf**](https://github.com/TEstebanGQ/ecommerce-database-4nf) | Advanced E-Commerce relational database (4NF, Stored Procedures, Triggers, and RFM analytics). |     |
-| 🕹️ [**softskills-quest**](https://github.com/TEstebanGQ/softskills-quest) | Gamified 2D interactive developer experience built in modular Vanilla JavaScript, Canvas & Web Audio API. |    |
-| 🎨 [**PORTAFOLIO**](https://github.com/TEstebanGQ/PORTAFOLIO) | Interactive 3D engineering logbook portfolio with procedural page folding and Web Audio synthesis. |    |
+| 🧠 [**campuslands-inteligente**](https://github.com/TEstebanGQ/campuslands-inteligente) | Intelligent platform & multi-agent system for classroom telemetry, computer vision & autonomous decisions. | `Python` `LangGraph` `PyTorch` `FastAPI` |
+| 📦 [**logitrack-wms-springboot**](https://github.com/TEstebanGQ/logitrack-wms-springboot) | Enterprise Warehouse Management System (WMS) with layered architecture & relational persistence. | `Java 17` `Spring Boot` `MySQL` `JPA` |
+| ⚙️ [**n8n-attendance-ai-workflow**](https://github.com/TEstebanGQ/n8n-attendance-ai-workflow) | Automated school absence justification triage with LLM reasoning, Sheets & Telegram notifications. | `n8n` `OpenRouter` `Google Sheets` `Telegram` |
+| 🔌 [**github-mcp-server**](https://github.com/TEstebanGQ/github-mcp-server) | Official Model Context Protocol (MCP) server in Node.js connecting LLMs (Groq/LLaMA 3.3) to GitHub API. | `Node.js` `MCP Protocol` `Groq` `GitHub API` |
+| 🎫 [**HelpDeskAI**](https://github.com/TEstebanGQ/HelpDeskAI) | Web ticketing system with AI-driven incident classification and knowledge base integration. | `JavaScript` `OpenRouter` `RAG` `CSS3` |
+| 🗄️ [**ecommerce-database-4nf**](https://github.com/TEstebanGQ/ecommerce-database-4nf) | Advanced E-Commerce relational database (4NF, Stored Procedures, Triggers, and RFM analytics). | `MySQL` `4NF` `Stored Procedures` `Triggers` |
+| 🕹️ [**softskills-quest**](https://github.com/TEstebanGQ/softskills-quest) | Gamified 2D interactive developer experience built in modular Vanilla JavaScript, Canvas & Web Audio API. | `JavaScript ES6` `HTML5 Canvas` `Web Audio` |
+| 🎨 [**PORTAFOLIO**](https://github.com/TEstebanGQ/PORTAFOLIO) | Interactive 3D engineering logbook portfolio with procedural page folding and Web Audio synthesis. | `Three.js` `GSAP` `Netlify` |
 
 ---
 
