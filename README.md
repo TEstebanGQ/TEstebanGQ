@@ -1,15 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=TEstebanGQ&theme=aurora&mode=dark" width="100%" alt="Tomas Esteban González Quintero" />
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=TEstebanGQ&theme=aurora" width="100%" alt="Tomas" />
-</p>
+# ⚡ Tomas Esteban González Quintero
+### Full Stack Developer & AI Solutions Architect
 
-<!-- Typing Dynamic Banner -->
 <p align="center">
   <a href="https://portafolio-tegq.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Solutions;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+PyTorch;Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+n8n;Three.js+3D+Logbook+%E2%80%A2+Creative+Dev" alt="Typing SVG" />
@@ -35,6 +28,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TEstebanGQ&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
@@ -88,10 +83,6 @@ Full Stack Developer & AI Integrator. Especializado en **Python**, **Java (Sprin
 ---
 
 ### 🌟 Proyectos Destacados
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=TEstebanGQ&theme=aurora" width="100%" alt="Proyectos" />
-</p>
 
 | Proyecto | Descripción | Stack Principal |
 | :--- | :--- | :--- |
