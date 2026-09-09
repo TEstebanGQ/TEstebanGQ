@@ -7,14 +7,14 @@
 
 <!-- Typing Dynamic Banner -->
 <p align="center">
-  <a href="https://portafolio-tegq.netlify.app/">
+  <a href="https://portafolio-tegq-web.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Solutions;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+PyTorch;Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+n8n;Three.js+3D+Logbook+%E2%80%A2+Creative+Dev" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Quick Action Badges -->
 <p align="center">
-  <a href="https://portafolio-tegq.netlify.app/" target="_blank">
+  <a href="https://portafolio-tegq-web.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portafolio_3D-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tomas-esteban-gonzalez-quintero/" target="_blank">
